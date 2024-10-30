@@ -1,0 +1,117 @@
+# Copyright (C) 2013 Lazyest Stylesheet
+# This file is distributed under the same license as the Lazyest Stylesheet package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lazyest Stylesheet 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/lazyest-stylesheet\n"
+"POT-Creation-Date: 2013-02-15 21:45:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (Lazyest Stylesheet 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: lazyest-stylesheet.php:192
+msgid "Lazyest Stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:311
+msgid "Lazyest Styleheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:324
+msgid "Succesfully saved your stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:326
+msgid "Could not save your stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:340
+msgid "Stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:371
+msgid "Security check"
+msgstr ""
+
+#: lazyest-stylesheet.php:412
+msgid "You do not have permissions to edit themes."
+msgstr ""
+
+#: lazyest-stylesheet.php:429
+msgid "Edit Lazyest Stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:429
+msgid "Browse Lazyest Stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:436
+msgid "Lazyest Stylesheet cannot open your stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:447
+msgid "Permanent Stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:453
+msgid "Publish"
+msgstr ""
+
+#: lazyest-stylesheet.php:458
+msgid "Stylesheets:"
+msgstr ""
+
+#: lazyest-stylesheet.php:461
+msgid "Standard"
+msgstr ""
+
+#: lazyest-stylesheet.php:465
+msgid "Mobile"
+msgstr ""
+
+#: lazyest-stylesheet.php:471
+msgid "Options:"
+msgstr ""
+
+#: lazyest-stylesheet.php:474
+msgid "Disable on mobile devices"
+msgstr ""
+
+#: lazyest-stylesheet.php:479
+msgid "Disable syntax highlighting"
+msgstr ""
+
+#: lazyest-stylesheet.php:487
+msgid "Support the development of Lazyest Stylesheet"
+msgstr ""
+
+#: lazyest-stylesheet.php:492
+msgid "Update File"
+msgstr ""
+
+#: lazyest-stylesheet.php:494
+msgid "If this file were writable you could edit it."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://brimosoft.nl/lazyest/stylesheet/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Lazyest Stylesheet is a CSS editor that lets you customize your site design "
+"without modifying your theme or plugins."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Brimosoft"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.brimosoft.nl/"
+msgstr ""
